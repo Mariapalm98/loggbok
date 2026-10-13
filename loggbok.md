@@ -28,12 +28,13 @@ Andra sprintpalnering gick lika bra, vi va överräns om dom flesta punkterna oc
 ### Vad jag arbetade med 
 - Uppdatera så att formuläret som skapar nya produkter inkluderar category och imageUrl
 - Uppdatera som man ser image i /products och /admin
+-Koppla frontend med Payment och skapa PaymentSuccess och PaymentCancel sidor
 
 ### Eventuella problem och hur jag löste dem
-Denna veckan va ända enklare då de va att lägga till i redan färdiga sidor. Hade inga större problem.
+Denna veckans börja va enklare då de va att lägga till i redan färdiga sidor men Category och imageUrl. Sen resterande vecka höll jag på med payment och det gick ändå bra, de va en lite testande så man ser att allt fungerar men allt i backend va kort så detta va som sita steget.  
 
 ### Samarbete och agilt arbete
-
+Christoffer och Jimmy kämpade men payment och gjorde ett jätte bra jobba i backend all logik jag fixade bara de sista! Men där kändes de som just denna veckan hade iallafall vi tre så bra sammarbete. 
 
 ## Sprint 3 vecka 41
 
