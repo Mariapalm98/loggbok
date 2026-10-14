@@ -41,6 +41,8 @@ Christoffer och Jimmy kämpade men payment och gjorde ett jätte bra jobba i bac
 ### Vad jag arbetade med 
 - Skapa Docker image i workflow
 - Pusha Docker image till Docker Hub
+- Snygga till i frontend
+- Kommentera bort så emil ej skickas i email-service
 
 ### Eventuella problem och hur jag löste dem
 
